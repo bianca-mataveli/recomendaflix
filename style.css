@@ -1,21 +1,21 @@
 body {
-    background-color: rgb(18, 90, 235);
-    color: yellow;
+    background-color: rgb(241, 15, 226);
+    color: rgb(255, 229, 248);
 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Fugaz One", sans-serif;
     margin: 0px;
 
 }
 
-header{
+header {
     font-size: 50px;
     text-align: center;
 }
 
-h1{
+h1 {
     font-size: 30px;
 }
 
-p{
+p {
     font-size: 20px;
 }
