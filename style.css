@@ -10,9 +10,9 @@ body {
 header {
     font-size: 50px;
     text-align: center;
-    border-bottom:dashed 5px blueviolet;
+    border-bottom:dashed 5px rgb(230, 229, 231);
     padding: 30px;
-    color: blueviolet;
+    color: rgb(168, 143, 236);
 }
 
 h1 {
