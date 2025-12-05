@@ -44,8 +44,7 @@ img{
 
 .categoria-videos{
     display: flex;
-    scrollbar-width: auto;
-    overflow-x: auto;
+    overflow-y: auto;
     gap: 10px;
     padding-left: 20px;
 }
