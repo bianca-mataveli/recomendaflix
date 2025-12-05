@@ -43,8 +43,8 @@ img{
 }
 
 .categoria-videos{
-    display: scroll;
-    overflow-x: auto;
+    display: flex;
+    overflow-x: scroll;
     gap: 10px;
     padding-left: 20px;
 }
